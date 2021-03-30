@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:00:00.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="5qWqNmaCyOOZ5ObPTMVb" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:01:34.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="wIvKu91PxJHTHLPk6Lox" version="14.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="782" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="80" width="20" height="360" as="geometry" />
         </mxCell>
         <mxCell id="n0xkOvvqUbx94GTydlYp-223" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#FFFFFF;fontColor=#4D4D4D;fillColor=#E3E3E3;" vertex="1" parent="n0xkOvvqUbx94GTydlYp-1">
-          <mxGeometry x="5" y="90" width="10" height="80" as="geometry" />
+          <mxGeometry x="5" y="90" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="n0xkOvvqUbx94GTydlYp-2" value="Person" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="100" width="40" height="20" as="geometry" />
@@ -71,6 +71,18 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="648" y="320.03999999999996" as="sourcePoint" />
             <mxPoint x="935" y="320.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n0xkOvvqUbx94GTydlYp-234" value="Return Result Register Face Detaction" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#4D4D4D;entryX=1.033;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n0xkOvvqUbx94GTydlYp-222" target="n0xkOvvqUbx94GTydlYp-226">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="sourcePoint" />
+            <mxPoint x="730" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n0xkOvvqUbx94GTydlYp-235" value="Register Face Result" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#4D4D4D;entryX=0.967;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n0xkOvvqUbx94GTydlYp-7" target="n0xkOvvqUbx94GTydlYp-223">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
